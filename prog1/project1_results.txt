@@ -1,0 +1,22 @@
+Java: Sorting the native array took 2ms, and sorting the fixed array took 15ms. Size was 1000.
+Java: Sorting the native array took 5ms, and sorting the fixed array took 34ms. Size was 1000.
+Java: Sorting the native array took 2ms, and sorting the fixed array took 16ms. Size was 1000.
+Java: Sorting the native array took 41ms, and sorting the fixed array took 82ms. Size was 10000.
+Java: Sorting the native array took 51ms, and sorting the fixed array took 76ms. Size was 10000.
+Java: Sorting the native array took 50ms, and sorting the fixed array took 84ms. Size was 10000.
+Java: Sorting the native array took 3482ms, and sorting the fixed array took 9381ms. Size was 100000.
+Java: Sorting the native array took 3457ms, and sorting the fixed array took 9365ms. Size was 100000.
+Java: Sorting the native array took 3553ms, and sorting the fixed array took 9440ms. Size was 100000.
+
+C++: Sorting the native array took 1ms, and sorting the fixed array took 1ms. Size was 1000.
+C++: Sorting the native array took 1ms, and sorting the fixed array took 1ms. Size was 1000.
+C++: Sorting the native array took 1ms, and sorting the fixed array took 1ms. Size was 1000.
+C++: Sorting the native array took 89ms, and sorting the fixed array took 45ms. Size was 10000.
+C++: Sorting the native array took 64ms, and sorting the fixed array took 63ms. Size was 10000.
+C++: Sorting the native array took 73ms, and sorting the fixed array took 43ms. Size was 10000.
+C++: Sorting the native array took 2641ms, and sorting the fixed array took 2572ms. Size was 100000.
+C++: Sorting the native array took 2659ms, and sorting the fixed array took 2571ms. Size was 100000.
+C++: Sorting the native array took 2712ms, and sorting the fixed array took 2576ms. Size was 100000.
+
+
+
