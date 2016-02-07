@@ -1,0 +1,11 @@
+﻿  main.cpp
+main.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sort.cpp
+sort.cpp(5): warning C4101: 'temp': unreferenced local variable
+sort.cpp(22): warning C4101: 'temp': unreferenced local variable
+  Generating code
+  2 of 92 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  csc402prog1cpp.vcxproj -> E:\SchoolWork\CSC402\csc402prog1cpp\csc402prog1cpp\Release\csc402prog1cpp.exe

@@ -1,0 +1,4 @@
+﻿  sort.cpp
+e:\schoolwork\csc402\csc402prog1cpp\csc402prog1cpp\sort.cpp(6): warning C4101: 'temp': unreferenced local variable
+e:\schoolwork\csc402\csc402prog1cpp\csc402prog1cpp\sort.cpp(25): warning C4101: 'temp': unreferenced local variable
+  csc402prog1cpp.vcxproj -> E:\SchoolWork\CSC402\csc402prog1cpp\csc402prog1cpp\Debug\csc402prog1cpp.exe
