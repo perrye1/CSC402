@@ -1,10 +1,9 @@
 /*
-File Name: IComparable.h
-Author: Ethan Perry
-Course/Project: CSC 402/502 Spring 2016, Project3
-Purpose:  IComparable declaration and implementation
+ File Name: IComparable.h
+ Author: Ethan Perry 
+ Course: CSC 402
+ Date: 3/27/16
 */
-
 #include <iostream>
 #pragma once
 
