@@ -1,0 +1,217 @@
+﻿  testIComparable.cpp
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(39): error C2059: syntax error: 'if'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(39): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(42): error C2059: syntax error: 'return'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(42): error C2238: unexpected token(s) preceding ';'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): error C2628: 'Integer' followed by 'int' is illegal (did you forget a ';'?)
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): error C2270: 'compare': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): error C2259: 'Integer': cannot instantiate abstract class
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): note: due to following members:
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): note: 'int IComparable::compare(const IComparable &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(14): note: see declaration of 'IComparable::compare'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): note: 'void IComparable::print(std::ostream &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(16): note: see declaration of 'IComparable::print'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): error C2248: 'Integer::value': cannot access private member declared in class 'Integer'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(36): note: see declaration of 'Integer::value'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(36): note: see declaration of 'Integer'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): error C2065: 'value': undeclared identifier
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): error C2270: 'print': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): error C2270: '<': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): error C2805: binary 'operator <' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(44): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(44): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(46): error C2270: '>': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(46): error C2805: binary 'operator >' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(47): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(47): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(49): error C2270: '==': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(49): error C2805: binary 'operator ==' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(50): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(50): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(52): error C2270: '!=': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(52): error C2805: binary 'operator !=' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(53): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(53): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(55): error C2270: '<=': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(55): error C2805: binary 'operator <=' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(56): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(56): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(58): error C2270: '>=': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(58): error C2805: binary 'operator >=' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(59): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(59): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(60): error C2059: syntax error: '}'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(60): error C2143: syntax error: missing ';' before '}'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(63): error C2059: syntax error: 'if'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(63): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(66): error C2059: syntax error: 'return'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(66): error C2238: unexpected token(s) preceding ';'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2628: 'Character' followed by 'int' is illegal (did you forget a ';'?)
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2270: 'compare': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2259: 'Character': cannot instantiate abstract class
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): note: due to following members:
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): note: 'int IComparable::compare(const IComparable &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(14): note: see declaration of 'IComparable::compare'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): note: 'void IComparable::print(std::ostream &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(16): note: see declaration of 'IComparable::print'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2556: 'Character compare(const IComparable &)': overloaded function differs only by return type from 'Integer compare(const IComparable &)'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): note: see declaration of 'compare'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2248: 'Character::value': cannot access private member declared in class 'Character'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(60): note: see declaration of 'Character::value'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(60): note: see declaration of 'Character'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2065: 'value': undeclared identifier
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2259: 'Integer': cannot instantiate abstract class
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): note: due to following members:
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): note: 'int IComparable::compare(const IComparable &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(14): note: see declaration of 'IComparable::compare'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): note: 'void IComparable::print(std::ostream &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(16): note: see declaration of 'IComparable::print'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2270: 'print': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2572: 'print': redefinition of default argument: parameter 1
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(43): note: see declaration of 'print'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2270: '<': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(67): error C2805: binary 'operator <' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(68): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(68): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(70): error C2270: '>': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(70): error C2805: binary 'operator >' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(71): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(71): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(73): error C2270: '==': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(73): error C2805: binary 'operator ==' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(74): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(74): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(76): error C2270: '!=': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(76): error C2805: binary 'operator !=' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(77): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(77): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(79): error C2270: '<=': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(79): error C2805: binary 'operator <=' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(80): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(80): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(82): error C2270: '>=': modifiers not allowed on nonmember functions
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(82): error C2805: binary 'operator >=' has too few parameters
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(83): error C2678: binary '==': no operator found which takes a left-hand operand of type 'Integer' (or there is no acceptable conversion)
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(24): note: could be 'bool IComparable::operator ==(const IComparable &) const'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(379): note: or       'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(371): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(363): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\system_error(355): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(338): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(333): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  e:\programs\microsoft visual studio 14.0\vc\include\exception(328): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(83): note: while trying to match the argument list '(Integer, int)'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(84): error C2059: syntax error: '}'
+c:\users\perrye1.perry\desktop\prog3\icomparable.h(84): error C2143: syntax error: missing ';' before '}'
+c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(42): error C2259: 'Integer': cannot instantiate abstract class
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(42): note: due to following members:
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(42): note: 'int IComparable::compare(const IComparable &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(14): note: see declaration of 'IComparable::compare'
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(42): note: 'void IComparable::print(std::ostream &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(16): note: see declaration of 'IComparable::print'
+c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(44): error C2259: 'Integer': cannot instantiate abstract class
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(44): note: due to following members:
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(44): note: 'int IComparable::compare(const IComparable &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(14): note: see declaration of 'IComparable::compare'
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(44): note: 'void IComparable::print(std::ostream &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(16): note: see declaration of 'IComparable::print'
+c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(47): error C2259: 'Integer': cannot instantiate abstract class
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(47): note: due to following members:
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(47): note: 'int IComparable::compare(const IComparable &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(14): note: see declaration of 'IComparable::compare'
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(47): note: 'void IComparable::print(std::ostream &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(16): note: see declaration of 'IComparable::print'
+c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(50): error C2259: 'Integer': cannot instantiate abstract class
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(50): note: due to following members:
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(50): note: 'int IComparable::compare(const IComparable &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(14): note: see declaration of 'IComparable::compare'
+  c:\users\perrye1.perry\desktop\prog3\testicomparable.cpp(50): note: 'void IComparable::print(std::ostream &) const': is abstract
+  c:\users\perrye1.perry\desktop\prog3\icomparable.h(16): note: see declaration of 'IComparable::print'

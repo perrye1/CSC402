@@ -1,0 +1,14 @@
+﻿Build started 3/27/2016 10:32:58 PM.
+     1>Project "\\fileserv3.hh.nku.edu\perrye1$\Desktop\prog3\prog3.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt testIComparable.cpp
+         testIComparable.cpp
+     1>testIComparable.cpp(228): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"\\fileserv3.hh.nku.edu\perrye1$\Desktop\prog3\x64\Debug\prog3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\fileserv3.hh.nku.edu\perrye1$\Desktop\prog3\x64\Debug\prog3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\fileserv3.hh.nku.edu\perrye1$\Desktop\prog3\x64\Debug\prog3.lib" /MACHINE:X64 x64\Debug\testIComparable.obj
+         prog3.vcxproj -> \\fileserv3.hh.nku.edu\perrye1$\Desktop\prog3\x64\Debug\prog3.exe
+     1>Done Building Project "\\fileserv3.hh.nku.edu\perrye1$\Desktop\prog3\prog3.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.54
