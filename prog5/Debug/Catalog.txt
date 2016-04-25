@@ -1,0 +1,9 @@
+4123BLU:Retractable gel pens, blue, dozen:11.99:0.25
+4123BLA:Retractable gel pens, black, dozen:11.99:0.25
+4123RED:Retractable gel pens, red, dozen:11.99:0.25
+93456A:Acid-free Copy Paper, 8 1/2" x 11", 20lb, case:45.99:90.00
+93456B:Economy Copy Paper, 8 1/2" x 11", 18lb, case:29.99:90.00
+93456C:30% Recycled Copy Paper, 8 1/2" x 11", 20lb, case:39.99:90.00
+576361A:2015 Desk pad calendar:5.99:1.00
+576361B:Fifteen-month Desk Pad Calendar:6.99:1.10
+93456D:Acid-free Copy Paper, Ivory, 8 1/2" x 11", 20lb, case:45.99:90.00
