@@ -1,18 +1,19 @@
-﻿Build started 4/24/2016 11:08:27 PM.
-     1>Project "\\fileserv3.hh.nku.edu\perrye1$\Desktop\Prog5_1\Prog5_1\Prog5_1.vcxproj" on node 2 (Rebuild target(s)).
+﻿Build started 4/25/2016 11:24:03 PM.
+     1>Project "C:\Prog5_1\Prog5_1\Prog5_1.vcxproj" on node 2 (Rebuild target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Project5.cpp
          Project5.cpp
-     1>\\fileserv3.hh.nku.edu\perrye1$\desktop\prog5_1\prog5_1\project5.cpp(38): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-     1>\\fileserv3.hh.nku.edu\perrye1$\desktop\prog5_1\prog5_1\project5.cpp(42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-     1>\\fileserv3.hh.nku.edu\perrye1$\desktop\prog5_1\prog5_1\project5.cpp(43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-     1>\\fileserv3.hh.nku.edu\perrye1$\desktop\prog5_1\prog5_1\project5.cpp(52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-     1>\\fileserv3.hh.nku.edu\perrye1$\desktop\prog5_1\prog5_1\project5.cpp(105): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\prog5_1\prog5_1\project5.cpp(41): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\prog5_1\prog5_1\project5.cpp(45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\prog5_1\prog5_1\project5.cpp(46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\prog5_1\prog5_1\project5.cpp(91): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\prog5_1\prog5_1\project5.cpp(165): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\prog5_1\prog5_1\project5.cpp(182): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\fileserv3.hh.nku.edu\perrye1$\Desktop\Prog5_1\Debug\Prog5_1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\fileserv3.hh.nku.edu\perrye1$\Desktop\Prog5_1\Debug\Prog5_1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\fileserv3.hh.nku.edu\perrye1$\Desktop\Prog5_1\Debug\Prog5_1.lib" /MACHINE:X86 Debug\Project5.obj
-         Prog5_1.vcxproj -> \\fileserv3.hh.nku.edu\perrye1$\Desktop\Prog5_1\Debug\Prog5_1.exe
-     1>Done Building Project "\\fileserv3.hh.nku.edu\perrye1$\Desktop\Prog5_1\Prog5_1\Prog5_1.vcxproj" (Rebuild target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Prog5_1\Debug\Prog5_1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Prog5_1\Debug\Prog5_1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Prog5_1\Debug\Prog5_1.lib" /MACHINE:X86 Debug\Project5.obj
+         Prog5_1.vcxproj -> C:\Prog5_1\Debug\Prog5_1.exe
+     1>Done Building Project "C:\Prog5_1\Prog5_1\Prog5_1.vcxproj" (Rebuild target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.50
+Time Elapsed 00:00:00.98
