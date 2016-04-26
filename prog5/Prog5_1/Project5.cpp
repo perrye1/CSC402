@@ -1,8 +1,9 @@
 /*
 File Name: Project5.cpp
 Author: Ethan Perry
-Course/Project: CSC 402/502 Spring 2016, Project5
+Course: CSC 402
 Purpose:  Project5 Catalog implementation
+Date: 04/25/2016
 */
 
 #include <string>
